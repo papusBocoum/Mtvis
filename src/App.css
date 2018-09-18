@@ -1,0 +1,105 @@
+.App{
+  margin: 0;
+  padding: 0;
+ width: 100%;
+ 
+
+
+
+}
+
+.firts-block{
+  display: flex;
+
+  width: 100%;
+ 
+ 
+  
+
+
+}
+
+.map{
+
+  width: 50%;
+
+  padding: 5px;
+
+  border-right:2px dashed gray; 
+
+
+
+}
+
+
+
+
+
+.clusters{
+  width: 50%;
+
+  padding: 3px;
+
+
+}
+.title{
+  margin-top: 0;
+  font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+  margin-bottom: 5px;
+}
+
+.chart{
+
+
+
+         
+
+
+margin: auto;
+
+margin-top:5px; 
+
+
+ width: 600px;
+						
+height: 250px;
+						
+z-index: 100;
+
+}
+
+.chord{
+
+  margin: auto;
+
+margin-top:0px; 
+
+
+ width: 500px;
+						
+height: 600px;
+						
+z-index: 100;
+
+
+}
+
+
+.barContainer{
+
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 10px;
+  width: 600px;
+  height: 100px;
+  background-color: #fff;
+
+}
+
+
+
+
+
+
+
